@@ -1,6 +1,6 @@
 const search = instantsearch({
-    appId: "PYLFFE3Q8H",
-    apiKey: "bb61b22e4f51d14172584867a4befec2",
+    appId: "YOUR_APP_ID",
+    apiKey: "YOUR_API_KEY",
     indexName: "products_index",
     searchParameters: {
         hitsPerPage: 5,
